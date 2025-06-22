@@ -24,6 +24,8 @@ Aplikasi ini memiliki berbagai fitur dasar toko online, seperti:
 - 🖼️ Tampilkan gambar produk
 - 📖 Lihat detail dan deskripsi produk saat diklik
 
+note : untuk fitur nya masih terbatas karena ini website nya simple ya🥰
+
 ---
 
 ## 🚀 Fitur Utama
@@ -49,5 +51,16 @@ Aplikasi ini memiliki berbagai fitur dasar toko online, seperti:
 - 🧰 **State Management**
 - 📱 UI Responsive
 
+## 💬 Author
+
+✍️ Aqbil (Aqqubirru)
+
+📧 Email: aqbilhasyarasyadi21@gmail.com
+
+📱 Instagram: <a href="https://instagram.com/jbiel.hr" target="_blank">@jbiel.hr</a>
+
+🎵 TikTok: <a href="https://www.tiktok.com/@zebiel21" target="_blank">@zeeb_21</a>
+
+follow guys :D thanks
 
 
