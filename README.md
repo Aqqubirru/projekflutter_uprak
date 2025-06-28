@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-informational?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Completed-brightgreen" />
+  <img src="https://img.shields.io/badge/Status-Completed-green" />
 </p>
 
 ---
