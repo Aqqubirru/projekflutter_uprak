@@ -25,7 +25,7 @@ Aplikasi ini memiliki berbagai fitur dasar toko online, seperti:
 - 🖼️ Tampilkan gambar produk
 - 📖 Lihat detail dan deskripsi produk saat diklik
 
-note : untuk fitur nya masih terbatas karena ini website nya simple ya🥰
+note : untuk fitur nya masih terbatas karena ini website nya simple hasil ujian praktek dan simpel🥰
 
 ---
 
