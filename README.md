@@ -15,7 +15,7 @@ Ini adalah project tugas ujian praktek yang dibuat menggunakan **Flutter**, bert
 Aplikasi ini memiliki berbagai fitur dasar toko online, seperti:
 
 - 🎞️ Banner otomatis slide (auto carousel)
-- 📂 Filter berdasarkan kategori
+- 📂 Filter berdasarkan kategori (belum ada hapus filter)
 - 💰 Urutkan produk berdasarkan harga (termurah hingga termahal dan sebaliknya)
 - 🔥 Filter popular items
 - 🔎 Search bar
