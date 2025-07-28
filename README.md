@@ -50,7 +50,6 @@ note : untuk fitur nya masih terbatas karena ini website nya simple hasil ujian 
 - ⚙️ **Flutter**
 - 🎨 **Dart**
 - 🧰 **State Management**
-- 📱 UI Responsive
 
 ## 💬 Author
 
