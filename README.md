@@ -47,7 +47,7 @@ note : untuk fitur nya masih terbatas karena ini website nya simple hasil ujian 
 
 ## 🧑‍💻 Teknologi yang Digunakan
 
-- ⚙️ **Flutter 3.x**
+- ⚙️ **Flutter**
 - 🎨 **Dart**
 - 🧰 **State Management**
 - 📱 UI Responsive
