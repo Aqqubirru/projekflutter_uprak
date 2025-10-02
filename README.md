@@ -1,4 +1,4 @@
-s<h1 align="center">🛍️ Flutter E-Commerce App</h1>
+<h1 align="center">🛍️ Flutter E-Commerce App</h1>
 <h3 align="center">📱 Ujian Praktek SMK - Membuat Aplikasi Belanja Online</h3>
 
 <p align="center">
