@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Status-Completed-green" />
 </p>
 
-----
+---
 
 ## 🧾 Deskripsi
 
