@@ -22,7 +22,7 @@ Aplikasi ini memiliki berbagai fitur dasar toko online, seperti:
 - 🛒 Fitur add to cart
 - 🧹 Hapus item dari cart
 - 📦 Lihat barang-barang yang telah ditambahkan ke cart
-- 🖼️ Tampilkan gambar produk
+- Tampilkan gambar produk
 - Lihat detail dan deskripsi produk saat diklik
 
 note : untuk fitur nya masih terbatas karena ini website nya simple hasil ujian praktek dan simpel🥰
