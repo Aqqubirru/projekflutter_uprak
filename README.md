@@ -14,13 +14,13 @@
 Ini adalah project tugas ujian praktek yang dibuat menggunakan **Flutter**, bertema **e-commerce**.  
 Aplikasi ini memiliki berbagai fitur dasar toko online, seperti:
 
-- 🎞️ Banner otomatis slide (auto carousel)
-- 📂 Filter berdasarkan kategori (belum ada hapus filter)
-- 💰 Urutkan produk berdasarkan harga (termurah hingga termahal dan sebaliknya)
-- 🔥 Filter popular items
-- 🔎 Search bar
-- 🛒 Fitur add to cart
-- 🧹 Hapus item dari cart
+- Banner otomatis slide (auto carousel)
+- Filter berdasarkan kategori (belum ada hapus filter)
+- Urutkan produk berdasarkan harga (termurah hingga termahal dan sebaliknya)
+- Filter popular items
+- Search bar
+- Fitur add to cart
+- Hapus item dari cart
 - Lihat barang-barang yang telah ditambahkan ke cart
 - Tampilkan gambar produk
 - Lihat detail dan deskripsi produk saat diklik
