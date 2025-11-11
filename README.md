@@ -45,7 +45,7 @@ note : untuk fitur nya masih terbatas karena ini website nya simple hasil ujian 
 
 ---
 
-## 🧑‍💻 Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 - ⚙️ **Flutter**
 - 🎨 **Dart**
