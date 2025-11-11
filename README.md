@@ -1,5 +1,5 @@
-<h1 align="center">🛍️ Flutter E-Commerce App</h1>
-<h3 align="center">📱 Ujian Praktek SMK - Membuat Aplikasi Belanja Online</h3>
+<h1 align="center">Flutter E-Commerce App</h1>
+<h3 align="center">Ujian Praktek SMK - Membuat Aplikasi Belanja Online</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter&style=for-the-badge" />
