@@ -29,7 +29,7 @@ note : untuk fitur nya masih terbatas karena ini website nya simple hasil ujian 
 
 ---
 
-## 🚀 Fitur Utama
+## Fitur Utama pada aplikasi
 
 | Fitur                  | Penjelasan Singkat                                              |
 |------------------------|------------------------------------------------------------------|
