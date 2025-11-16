@@ -9,7 +9,7 @@
 
 ---
 
-## 🧾 Deskripsi
+## Deskripsi
 
 Ini adalah project tugas ujian praktek yang dibuat menggunakan **Flutter**, bertema **e-commerce**.  
 Aplikasi ini memiliki berbagai fitur dasar toko online, seperti:
